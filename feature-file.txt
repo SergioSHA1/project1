@@ -1,2 +1,3 @@
 text file
 hello world
+hello
